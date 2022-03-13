@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositório do curso de Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessickaAMelo/CursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Jessicka Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessickaAMelo/CursoNode/issues"
+  },
+  "homepage": "https://github.com/JessickaAMelo/CursoNode#readme"
+}
