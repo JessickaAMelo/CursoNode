@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="css/index.css">
 
     <script>
-        alert("Olá mundo");
+        alert("Olá mundoo");
     </script>
 
 </head>
